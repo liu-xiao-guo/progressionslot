@@ -1,0 +1,17 @@
+{
+    "name": "progressionslot.liu-xiao-guo",
+    "description": "description of progressionslot",
+    "architecture": "@CLICK_ARCH@",
+    "title": "progressionslot",
+    "hooks": {
+        "progressionslot": {
+            "apparmor": "progressionslot/progressionslot.apparmor",
+            "desktop":  "progressionslot/progressionslot.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

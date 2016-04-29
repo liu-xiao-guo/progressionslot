@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=progressionslot
+Exec=qmlscene %U progressionslot/Main.qml
+Icon=progressionslot/progressionslot.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
